@@ -1,0 +1,8 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "yolov2tiny.xmodel",
+    "kernel": [
+        "subgraph_yolov2-tinyconvolutional1\/Conv2D"
+    ],
+    "target": "DPUCZDX8G_ISA0_B3136_MAX_BG2"
+}
